@@ -11,7 +11,7 @@ Contient toutes les fonctionnalités habituelle d'une todo list notamment
 
 ## Clôner le projet 💻
 
-Après avoir clôner le projet vous devrez saisir les commandes suivantes pour l'exécuter :
+Après avoir clôné le projet vous devrez saisir les commandes suivantes pour l'exécuter :
 
 ### `npm install`
 
